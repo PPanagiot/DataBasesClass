@@ -1,2 +1,2 @@
 # DataBasesClass
-A database project
+A database project Repository for an academic project for Univercity of Patras 	p
